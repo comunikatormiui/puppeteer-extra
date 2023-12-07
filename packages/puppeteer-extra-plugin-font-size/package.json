@@ -27,7 +27,7 @@
     "puppeteer": "^2.0.0"
   },
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "puppeteer-extra-plugin": "^3.1.4"
   },
   "gitHead": "babb041828cab50c525e0b9aab02d58f73416ef3"
